@@ -1,1 +1,40 @@
-test
+# Unblock WhatsApp Desktop
+@@||web.whatsapp.com^$important
+
+# Unblock Muun
+@@||pub.api.muun.io^$important
+
+# Unblock some banks
+@@||mb.api.pagseguro.uol^$important
+@@||www.mercadopago.com.br^$important
+
+# Unblock Apple Music 
+@@||init.itunes.apple.com^$important
+@@||p32-buy.itunes.apple.com^$important
+@@||librarydaap.itunes.apple.com^$important
+@@||pd.itunes.apple.com^$important
+@@||gateway.icloud.com^$important
+@@||bag.itunes.apple.com^$important
+@@||sb.music.apple.com^$important
+@@||fpinit.itunes.apple.com^$important
+@@||sync.itunes.apple.com^$important
+@@||play.itunes.apple.com^$important
+@@||client-api.itunes.apple.com^$important
+@@||radio.itunes.apple.com^$important
+@@||bag-cdn.itunes-apple.com.akadns.net^$important
+@@||itunes.apple.com^$important
+@@||s.mzstatic.com^$important
+@@||gsp-ssl.ls.apple.com^$important
+@@||is1-ssl.mzstatic.com^$important
+@@||s-mzstatic-applak.itunes-apple.com.akadns.net^$important
+@@||itunes-cdn.itunes-apple.com.akadns.net^$important
+@@||p32-buy.itunes-apple.com.akadns.net^$important
+@@||se2-cdn.itunes-apple.com.akadns.net^$important
+@@||amp-api-music-lb.itunes-apple.com.akadns.net^$important
+@@||fpinit.edge-itunes-apple.com.akadns.net^$important
+@@||p32-buy-lb.itunes-apple.com.akadns.net^$important
+@@||librarydaap-cdn.lb-apple.com.akadns.net^$important
+@@||pd-cdn.itunes-apple.com.akadns.net^$important
+@@||fpinit-us-w.edge-itunes-apple.com.akadns.net^$important
+@@||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
+@@||sync-cdn.itunes-apple.com.akadns.net^$important
