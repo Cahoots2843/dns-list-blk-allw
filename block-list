@@ -1,1 +1,33 @@
-test
+# Block regex list
+/^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]/
+/.*[`^.`]l.google.com$/
+/.*[`^.`]googlevideo.com$/
+/^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$/
+
+# Block some Microsoft stufs
+||www.msftconnecttest.com^$important
+||office.com^$important
+
+# Block ntp.org
+||pool.ntp.org^$important
+
+# Block Apple DNS
+||apple-dns.net^$important
+
+#Block emails stuffs
+||hopeweb.com.br^$important
+||auto.gruporenac.com.br^$important
+||click.marketing.avenue.us^$important
+||links.infinitepay.io^$important
+||d155nk04.na1.hubspotlinks.com^$important
+||boleto.prosindicocondominios.com.br^$important
+||click.da.n26brasil.com^$important
+||image.marketing.avenue.us^$important
+||url9121.hopeunderwear.com.br^$important
+||cma2.gruporenac.com.br^$important
+||www.sanebox.com^$important
+
+# Block AkaDNS - Akamai
+||akadns.net^$important
+||akamaiedge.net^$important
+||akamai.net^$important
