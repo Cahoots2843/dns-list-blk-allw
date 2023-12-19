@@ -11,8 +11,19 @@
 # Block ntp.org
 ||pool.ntp.org^$important
 
+# Block incapdns
+||pw4oy35.x.incapdns.net^$important
+
 # Block Apple DNS
 ||apple-dns.net^$important
+||fmfmobile.fe.apple-dns.net^$important
+
+# Block Apple stuffs
+||p123-fmf.icloud.com^$important
+
+# Block CandyCrush stuffs
+||ams.king.com^$important
+||mobilecrush.king.com^$important
 
 #Block emails stuffs
 ||hopeweb.com.br^$important
@@ -31,3 +42,14 @@
 ||akadns.net^$important
 ||akamaiedge.net^$important
 ||akamai.net^$important
+||e673.dsce9.akamaiedge.net^$important
+
+# Block another stuffs
+||https://app-measurement.com/sdk-exp^$important
+||cache.agilebits.com^$important
+||prod.amcs-tachyon.com^$important
+||catchdata.didiglobal.com^$important
+||exp.host^$important
+||libs-digitalanalytics.cloud.itau.com.br^$important
+||revenuecat.com^$important
+||mc1d7477yjq5vp6w321c5byqxy1q.device.marketingcloudapis.com^$important
