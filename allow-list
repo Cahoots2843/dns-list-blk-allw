@@ -4,6 +4,10 @@
 # Unblock Muun
 @@||pub.api.muun.io^$important
 
+# Unblock Apple Weather
+@@||weather-data.apple.com^$important
+@@||weather-map2.apple.com^$important
+
 # Unblock some banks
 @@||mb.api.pagseguro.uol^$important
 @@||www.mercadopago.com.br^$important
