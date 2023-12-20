@@ -1,5 +1,6 @@
 # Unblock WhatsApp Desktop
 @@||web.whatsapp.com^$important
+@@||mmx-ds.cdn.whatsapp.net^$important
 
 # Unblock Muun
 @@||pub.api.muun.io^$important
